@@ -250,3 +250,4 @@ class Pipsolar : public uart::UARTDevice, public PollingComponent {
 
 }  // namespace pipsolar
 }  // namespace esphome
+
